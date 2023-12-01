@@ -1,0 +1,9 @@
+h=10
+v=2
+d="Python"
+print(h+v)
+print(type(h))
+print(type(v))
+print(type(d))
+print(id(h))
+print(id(v))
